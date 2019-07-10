@@ -5,6 +5,7 @@ A sample repository for the MolSSI devops workshop
 
 # Add imports here
 from .molssi_math import *
+from .util import title_case
 
 # Handle versioneer
 from ._version import get_versions
