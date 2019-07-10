@@ -6,6 +6,9 @@ molssi_devops
 
 A sample repository for the MolSSI devops workshop
 
+`pip install -e .`
+
+in the repository directory.
 ### Copyright
 
 Copyright (c) 2019, Jennifer A Clark
