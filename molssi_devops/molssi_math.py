@@ -5,6 +5,7 @@ A sample repository for the MolSSI devops workshop
 Handles the primary functions
 """
 
+
 def mean(num_list):
     """
     Calculate the mean/average of a list of numbers
@@ -23,9 +24,10 @@ def mean(num_list):
     -------
     >>> mean([1,2,3,4,5])
     3.0
-    """
-    mean_list = sum(num_list)/len(num_list)
+                   """
+    mean_list = sum(num_list) / len(num_list)
     return mean_list
+
 
 def canvas(with_attribution=True):
     """
